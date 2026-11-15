@@ -23,10 +23,6 @@ This repository contains my C++ practice programs, exercises, and learning progr
 To strengthen my programming fundamentals and build a foundation for backend software development.
 
 ## Author
-Muhammad Daim Zahid
-
-GitHub: @daim-11
-
 **Muhammad Daim Zahid**
 
 GitHub: [@daim-11](https://github.com/daim-11)
